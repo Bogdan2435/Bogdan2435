@@ -7,7 +7,7 @@ def more():
   age = 21;
   location = "Bucharest, Romania";
   university = "University of Bucharest, Computers and Information Technology"
-  univ_year = "2/4"
+  univ_year = "3/4"
 ```
 
 <h3 align="left">Languages, Technologies and Tools:</h3>
