@@ -4,10 +4,10 @@
 
 def more():
   name = "Dura Bogdan";
-  age = 21;
+  age = 22;
   location = "Bucharest, Romania";
   university = "University of Bucharest, Computers and Information Technology"
-  univ_year = "3/4"
+  univ_year = "4/4"
 ```
 
 <h3 align="left">Languages, Technologies and Tools:</h3>
